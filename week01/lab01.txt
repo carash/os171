@@ -1,0 +1,22 @@
+total 76
+drwxr-xr-x 18 wibisana.bramawidya StafCS 4096 Feb 18 12:56 .
+drwx--x--x  3 wibisana.bramawidya StafCS 4096 Feb 18 12:49 ..
+drwxr-xr-x  8 wibisana.bramawidya StafCS 4096 Feb 18 12:56 .git
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:39 key
+-rw-r--r--  1 wibisana.bramawidya StafCS    0 Feb 18 12:57 lab01.txt
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:39 log
+-rw-r--r--  1 wibisana.bramawidya StafCS    7 Feb 18 04:34 README.md
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:46 sandbox
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 12:49 week00
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:38 week01
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:38 week02
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:38 week03
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:38 week04
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:38 week05
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:38 week06
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:39 week07
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:39 week08
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:39 week09
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:39 week10
+drwxr-xr-x  2 wibisana.bramawidya StafCS 4096 Feb 18 04:40 xtra
+/home/fasilkom/mahasiswa/w/wibisana.bramawidya/os171/week01
