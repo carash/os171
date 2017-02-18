@@ -1,0 +1,8 @@
+The target for this week's assignment is to get used to using badak.
+
+The first steps in this assignnment are using basic CLI commands to get accustomed to using CLI, as most students have not used it before. By creating, removing, checking files and also moving through the directories, users will be able to better understand the environment they will be using for the next semester.
+
+Next is the usage of GitHub. After getting used to basic CLI commands, the user is then to add, commit and push those changes to GitHub. this is to allow users to understand how to use Git bash to execute git commands.
+
+After learning Git, next the user is shown basic bash scripting, to get a picture of how to create code through a text editor available in a CLI. The user is also instructed to run said code so they now how the code works and how to check/test it.
+
