@@ -1,0 +1,9 @@
+Week0's task was to register one's self to the badak.cs.ui.ac.id system
+
+In order for one to be able to complete this task, three accounts are needed, two of which can be created by the users themselves. The three accounts are a google account, a github account, and an SSO account.
+
+After acquiring the three accounts, the user is to fill out a google form containing the user's basic information. Once the form is filled out, the user must then create a GitHub repository for working on weekly tasks.
+
+After at most 24 hours, the accounts and information will be confirmed and the users can check their validity so they can fix any istakes made.
+
+After they have been validated, the user should then check if they are registered to the Badak system by loggin in through PuTTY.
